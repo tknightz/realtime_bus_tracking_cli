@@ -5,7 +5,7 @@ from rich.live import Live
 from rich.table import Table
 from rich.console import Console
 
-from lib.time import format_second_to_str
+from util.time import format_second_to_str
 
 
 class UI:
